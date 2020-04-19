@@ -1,0 +1,8 @@
+.header__link_active {
+  text-decoration-line: underline;
+}
+
+.header__link_active:hover {
+  opacity: .8;
+  transition: opacity .2s linear;
+}

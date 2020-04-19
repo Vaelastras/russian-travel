@@ -1,0 +1,31 @@
+.place__paragraph {
+  margin-top: 0px;
+  margin-left: 0px;
+  width: auto;
+  font-size: 18px;
+  line-height: 30px;
+  margin-bottom: 24px;
+}
+
+.place__paragraph:last-of-type {
+  margin-bottom: 0px;
+}
+
+@media (max-width:768px) {
+  .place__paragraph {
+    font-size: 16px;
+    line-height: 26px;
+  }
+}
+
+@media (max-width: 670px) {
+  .place__paragraph {
+    padding: 0px 16px;
+  }
+
+@media (max-width: 320px) {
+ .place__paragraph {
+   font-size: 16px;
+   line-height: 26px;
+ }
+}

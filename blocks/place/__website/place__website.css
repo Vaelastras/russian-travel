@@ -1,0 +1,14 @@
+.place__website {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
+  width: auto;
+}
+
+
+@media (max-width:670px) {
+  .place__website {
+    display: none;
+  }
+}
