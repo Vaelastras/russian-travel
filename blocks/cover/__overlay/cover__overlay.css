@@ -5,18 +5,18 @@
 }
 
 .cover__overlay::before {
-  content: '';
+  content: ' ';
   width: 100%;
   height: auto;
   background-color: #2a2c2f;
-  opacity: 0.3;
   position: absolute;
-  left: 0;
-  top: 0;
-  right: 0;
-  bottom: 0;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
   z-index: 2;
-  transition: opacity 0.3s linear;
+  opacity: .3;
+  transition: opacity .2s linear;
 }
 
 .cover__overlay:hover::before {

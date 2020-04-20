@@ -6,8 +6,7 @@
   width: auto;
 }
 
-
-@media (max-width:670px) {
+@media (max-width: 670px) {
   .place__website {
     display: none;
   }

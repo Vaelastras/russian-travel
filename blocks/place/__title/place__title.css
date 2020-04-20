@@ -2,12 +2,13 @@
   margin-top: 0px;
   margin-bottom: 0px;
   max-width: 460px;
-  font-style: normal;
   font-weight: 900;
   font-size: 72px;
   line-height: 76px;
   color: #FFFFFF;
 }
+
+/*additional media-query for BP 920px */
 
 @media (max-width: 920px) {
   .place__title {
@@ -23,13 +24,13 @@
   }
 }
 
-@media (max-width:670px) {
+@media (max-width: 670px) {
   .place__title {
     margin: 0px 16px;
   }
 }
 
-@media (max-width:320px) {
+@media (max-width: 320px) {
   .place__title {
     font-size: 32px;
     line-height: 35px;
