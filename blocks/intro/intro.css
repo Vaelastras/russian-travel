@@ -2,6 +2,7 @@
 @import url(./__text/intro__text.css);
 @import url(./__list/intro__list.css);
 @import url(./__list-row/intro__list-row.css);
+@import url(./__list-row/_text-value/intro__list-row_text-value.css);
 
 
 .intro {

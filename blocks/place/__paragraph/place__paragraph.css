@@ -22,6 +22,7 @@
   .place__paragraph {
     padding: 0px 16px;
   }
+}
 
 @media (max-width: 320px) {
  .place__paragraph {

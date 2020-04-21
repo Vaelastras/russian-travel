@@ -1,5 +1,5 @@
 # Путешествие по России
-[Ссылка на проект GitHub](https://github.com/Vaelastras/russian-travel/index.html)
+[Ссылка на проект GitHub](https://vaelastras.github.io/russian-travel/index.html)
 
 
 ## Cодержание
@@ -37,5 +37,3 @@
 3. Подключить API YouTube.
 
 -----
-
-[Ссылка на проект GitHub](https://github.com/Vaelastras/russian-travel/index.html)

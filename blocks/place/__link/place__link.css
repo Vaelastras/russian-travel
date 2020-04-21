@@ -1,8 +1,10 @@
 .place__link {
   font-size: 18px;
   line-height: 22px;
-  text-decoration-line: underline;
+  text-decoration-line: none;
   color: #FFFFFF;
+  border-bottom: 1px solid;
+  margin-bottom: 2px;
 }
 
 .place__link:hover {
